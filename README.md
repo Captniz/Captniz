@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋About Me
 
-<!--
-**Captniz/Captniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, im Simone Tardiani and i'm an IT student in italy.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captniz&show_icons=true&bg_color=30,FF3F21,FA205B&title_color=fff&text_color=fff&icon_color=fff)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=captniz&repo=rep_1&show_icons=true&bg_color=30,FF3F21,FA205B&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 What am i studying
+
+At the moment im mainly focused on learning simple and medium difficulty languages like Python and C, but i'm also learning HTML, Javascript, C# (_Mainly for Unity projects_).  
+I'm also trying to improve my english through various courses.
+
+### 💼 What am i working on
+
+I'm working on various small projects, which most of them you can browse freely in this repo, but nothing in particular.
