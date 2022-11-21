@@ -1,6 +1,6 @@
 ## 👋About Me
 
-Hi, im Simone Tardiani and i'm an IT student in italy.
+Hi, im Simone Tardiani and i'm an italian IT student.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captniz&show_icons=true&bg_color=30,FF3F21,FA205B&title_color=fff&text_color=fff&icon_color=fff)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=captniz&repo=rep_1&show_icons=true&bg_color=30,FF3F21,FA205B&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Captniz/Rep_1)
