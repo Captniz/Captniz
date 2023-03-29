@@ -12,4 +12,4 @@ I'm also trying to improve my english through various courses.
 
 ### 💼 What am i working on
 
-I'm working on various small projects, which most of them you can browse freely in [Rep_1](https://github.com/Captniz/Rep_1), but nothing in particular.
+I'm working on various small projects, which most of them you can browse freely in [GeneralCode](https://github.com/Captniz/GeneralCode), but nothing in particular.
