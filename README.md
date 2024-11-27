@@ -1,3 +1,6 @@
+boh, ci penso dopo.
+
+<!--
 ## 👋About Me
 
 Hi, I'm Simone Tardiani and I'm an Italian IT student.
@@ -10,3 +13,4 @@ Hi, I'm Simone Tardiani and I'm an Italian IT student.
 At the moment I'm focused on learning about the Linux universe and creating my own rices; my daily driver is a NixOs machine, of which the dotfiles are stored in [NixOs Dots](https://github.com/Captniz/NixosDots)
 I'm also working on various small projects, most of which you can browse freely in my repositories, but nothing in particular.  
 Lastly [GeneralCode](https://github.com/Captniz/GeneralCode) and [Notes](https://github.com/Captniz/Notes) reports contain my current school notes and exercises.
+-->
